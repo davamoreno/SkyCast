@@ -1,6 +1,6 @@
 # 🌤️ SkyCast - Laravel Weather App
 
-A modern, full-stack weather application built with **Laravel 11**, **Vue 3**, **Inertia.js**, and **Tailwind CSS**.
+A modern, full-stack weather application built with **Laravel 12**, **Vue 3**, **Inertia.js**, and **Tailwind CSS**.
 
 ## 🚀 Key Features
 
