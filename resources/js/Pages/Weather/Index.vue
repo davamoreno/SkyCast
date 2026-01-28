@@ -31,7 +31,7 @@ const getBackground = () => {
 </script>
 
 <template>
-    <Head title="Weather App" />
+    <Head title="Skycast - Weather" />
 
     <AuthenticatedLayout>
         <div :class="[getBackground(), 'relative flex flex-col items-center justify-center p-4 transition-all duration-1000 ease-in-out font-sans min-h-[calc(100vh-65px)] overflow-hidden']">
