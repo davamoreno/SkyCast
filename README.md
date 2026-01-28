@@ -20,8 +20,7 @@ A modern, full-stack weather application built with **Laravel 11**, **Vue 3**, *
 
 1. **Clone the repository**
     ```bash
-    git clone [LINK_REPO_GITHUB_LU]
-    cd [NAMA_FOLDER]
+    git clone https://github.com/davamoreno/SkyCast.git
 
 2. **Install Dependencies**
 
@@ -29,8 +28,6 @@ A modern, full-stack weather application built with **Laravel 11**, **Vue 3**, *
     composer install
     npm install
     Environment Setup Copy .env.example to .env:
-
-    ```Bash
     cp .env.example .env
     Add your OpenWeatherMap API Key in .env:
 
@@ -43,8 +40,6 @@ A modern, full-stack weather application built with **Laravel 11**, **Vue 3**, *
     php artisan key:generate
     php artisan migrate
     Run Application Open two terminals:
-
-    ```Bash
     npm run dev
     Bash
     php artisan serve
